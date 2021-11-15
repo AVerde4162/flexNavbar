@@ -1,0 +1,22 @@
+*{
+    
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    
+}
+.nav{
+    display:flex;
+    justify-content: space-between;
+    background-color: gray;
+}
+
+.nav-links{
+    display:flex;
+    align-items: center;
+    list-style-type: none;
+    
+}
+
+.nav-links li{
+    margin-right: 25px;
+}
